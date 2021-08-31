@@ -1,0 +1,83 @@
+
+s@import  url ( 'https://fonts.googleapis.com/css2?family=Georama:wght@100&display=swap' );
+
+@ font-face {
+    família de fontes : OpenSans;
+    src :  url ( "../fonts/OpenSans-Bold.ttf" );
+    tamanho da fonte :  1 em ;
+} 
+
+corpo {
+
+    família da fonte : Georama;
+    / * font-family: OpenSans; * /
+    / * font-family: Verdana, Geneva, Tahoma, sans-serif; * /
+    altura da linha :  1,6 ;
+
+}
+
+. container {
+
+    margem :  0 automático;
+    largura :  960 px ;
+
+}
+
+. titulo {
+
+    cor de fundo :  # FFF ;
+    preenchimento :  10 px ;
+}
+
+. bloco {
+
+    cor de fundo :  # fff ;
+    cor da borda :  # CCC  # 999  # CCC  # 999 ;
+    borda :  1 px sólido # ccc ;
+    margem superior :  20 px ;
+    preenchimento :  10 px ;
+
+}
+
+. bloco  img {
+
+    borda :  1 px sólido # 999 ;
+    margem :  10 px  10 px  0  0 ;
+    preenchimento :  2 px ;
+
+}
+
+. bloco  a {
+
+    cor :  # 3471EB ;
+    peso da fonte : negrito;
+    decoração de texto : nenhum;
+
+}
+
+. bloco  a : hover {
+
+    cor :  # 34b4eb ;
+    decoração de texto : sublinhado;
+
+}
+
+. bloco  img {
+
+    borda :  1 px sólido # 999 ;
+    flutuar : esquerda;
+    margem :  10 px  10 px  0  0 ;
+    preenchimento :  2 px ;
+
+}
+
+html {
+    background : url (.. / img / fundo_med.jpg) centro de centro sem repetição fixo;
+    tamanho do fundo : capa;
+}
+
+. claro {
+
+    claro : ambos;
+    
+}
